@@ -1,0 +1,12 @@
+git init
+
+내려받기
+git pull orign master
+
+올리기
+git add .
+git commit -m
+git push orgin master
+
+로컬 저장소와 원격저장소 연결하기
+git remote add origin https://github.com/사용자이름/원격저장소이름.git
